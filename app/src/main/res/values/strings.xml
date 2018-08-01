@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WikiSearch</string>
+    <string name="close">Close</string>
+    <string name="txt_message">Result</string>
+    <string name="no_connection">No connection</string>
+</resources>
